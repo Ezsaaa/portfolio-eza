@@ -9,7 +9,7 @@ export default defineConfig({
     rollupOptions: {
       output: {
         manualChunks: {
-          'three': ['three', 'three-stdlib'],
+          'three': ['three'],
           'react-three': ['@react-three/fiber', '@react-three/drei'],
           'gsap': ['gsap'],
           'vendor': ['react', 'react-dom', 'react-router-dom']
@@ -17,13 +17,6 @@ export default defineConfig({
       }
     },
     chunkSizeWarningLimit: 1000,
-    minify: 'terser',
-    terserOptions: {
-      compress: {
-        drop_console: true,
-        drop_debugger: true
-      }
-    }
   },
   optimizeDeps: {
     include: ['three', 'gsap', 'lenis']
