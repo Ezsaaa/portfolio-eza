@@ -12,7 +12,7 @@ import { LoadingProvider } from "./context/LoadingProvider";
 
 const App = () => {
   return (
-    <BrowserRouter basename="/EZX">
+    <BrowserRouter>
       <Routes>
         <Route
           path="/"
