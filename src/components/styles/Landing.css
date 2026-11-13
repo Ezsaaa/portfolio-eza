@@ -553,7 +553,11 @@ h2.landing-info-h2 {
   }
 }
 /* Sembunyikan kartu nama dan foto profil lama */
-.character-hover {
+.character-hover,
+.character-model img,
+.character-model span,
+div[class*="character"] img,
+div[class*="character"] span {
   display: none !important;
   visibility: hidden !important;
   opacity: 0 !important;
