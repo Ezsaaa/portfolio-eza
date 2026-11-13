@@ -80,12 +80,6 @@ If you found this useful:
 
 ---
 
-## 🤝 Connect
-
-- 
-
----
-
 ## 🏷️ Recommended GitHub Topics (add in repo settings)
 
 Add these topics to improve GitHub search visibility:
