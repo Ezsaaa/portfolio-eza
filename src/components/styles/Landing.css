@@ -552,3 +552,10 @@ h2.landing-info-h2 {
     font-size: 75px;
   }
 }
+/* Sembunyikan kartu nama dan foto profil lama */
+.character-hover {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+}
