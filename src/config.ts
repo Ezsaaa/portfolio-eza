@@ -108,7 +108,7 @@ export const config = {
             technologies: "Python, PyTorch, Transformers, FastAPI, React, MongoDB",
             image: "/images/Drishti.png",
             description: "MAKASSAR's first intelligent advanced AI chatbot powered by a custom Large Language Model. Features natural language understanding, contextual conversations, and multilingual support including Bengali.",
-            link: "https://huggingface.co/red1-for-hek/drishti-ilm-x1"
+            link: "https://huggingface.co/ezxa"
         },
         {
             id: 2,
