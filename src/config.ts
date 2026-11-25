@@ -12,7 +12,7 @@ export const config = {
     },
     about: {
         title: "About Me",
-        description: "I am a self-taught AI & Full-Stack Developer from MAKASSAR. I build intelligent systems, chatbots, and modern web applications. My expertise includes Machine Learning, Deep Learning, NLP, and Full-Stack Web Development with React, Node.js, and Python. Currently building next-gen AI Agents and JARVIS-like Personal Assistants. I have a competitive programming mindset and a deep passion for automation. Code is poetry, AI is the canvas."
+        description: "Saya adalah AI & Full-Stack Developer otodidak dari MAKASSAR. Saya membangun sistem cerdas, chatbot, dan aplikasi web modern. Keahlian saya mencakup Machine Learning, Deep Learning, NLP, serta pengembangan web full-stack dengan React, Node.js, dan Python. Saat ini saya sedang membangun AI Agents generasi baru dan asisten pribadi ala JARVIS. Saya memiliki mindset pemrograman kompetitif dan ketertarikan yang kuat pada otomatisasi. Kode adalah puisi, AI adalah kanvasnya."
     },
     experiences: [
         {
