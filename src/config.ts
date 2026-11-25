@@ -1,0 +1,172 @@
+export const config = {
+    developer: {
+        name: "E Z A",
+        fullName: "EZA",
+        title: "AI & Full-Stack Developer",
+        description: "AI & Full-Stack Developer building intelligent systems and modern web applications. Passionate about machine learning, deep learning, and creating next-gen autonomous agents."
+    },
+    social: {
+        github: "Ezsaaa",
+        email: "rezaardinata166@gmail.com",
+        location: "MAKASSAR"
+    },
+    about: {
+        title: "About Me",
+        description: "I am a self-taught AI & Full-Stack Developer from MAKASSAR. I build intelligent systems, chatbots, and modern web applications. My expertise includes Machine Learning, Deep Learning, NLP, and Full-Stack Web Development with React, Node.js, and Python. Currently building next-gen AI Agents and JARVIS-like Personal Assistants. I have a competitive programming mindset and a deep passion for automation. Code is poetry, AI is the canvas."
+    },
+    experiences: [
+        {
+            position: "Learning Something New",
+            company: "Self-Development",
+            period: "2025 - Present",
+            location: "MAKASSAR",
+            description: "Continuously exploring emerging technologies, researching advanced AI systems, and pushing the boundaries of what's possible in tech.",
+            responsibilities: [
+                "Researching cutting-edge AI and ML technologies",
+                "Experimenting with new frameworks and tools",
+                "Contributing to open-source projects",
+                "Building innovative personal projects"
+            ],
+            technologies: ["Research", "Innovation", "Open Source", "New Tech"]
+        },
+        {
+            position: "AI Engineer",
+            company: "Freelance & Projects",
+            period: "2025",
+            location: "MAKASSAR",
+            description: "Developing intelligent AI systems, chatbots, and machine learning solutions. Building next-gen conversational AI agents and JARVIS-like personal assistants.",
+            responsibilities: [
+                "Building AI-powered chatbots and conversational agents",
+                "Developing machine learning models with TensorFlow and PyTorch",
+                "Working with LLMs and transformer architectures",
+                "Creating autonomous AI systems and automation tools"
+            ],
+            technologies: ["Python", "TensorFlow", "PyTorch", "LLMs", "NLP", "AI Agents"]
+        },
+        {
+            position: "Full-Stack Developer",
+            company: "Freelance & Projects",
+            period: "2024",
+            location: "MAKASSAR",
+            description: "Built complete web applications from frontend to backend. Developed responsive UIs, RESTful APIs, and database solutions for various clients and projects.",
+            responsibilities: [
+                "Developing full-stack web applications using React and Node.js",
+                "Building RESTful APIs and integrating databases",
+                "Creating responsive and interactive user interfaces",
+                "Deploying and maintaining web applications"
+            ],
+            technologies: ["React", "Node.js", "MongoDB", "Express", "Next.js", "TypeScript"]
+        },
+        {
+            position: "Python Developer",
+            company: "Self-Taught & Projects",
+            period: "2023",
+            location: "MAKASSAR",
+            description: "Dove deep into Python programming, building automation scripts, bots, and mastering the fundamentals of software development and problem-solving.",
+            responsibilities: [
+                "Learning Python programming and core concepts",
+                "Building automation scripts and Discord bots",
+                "Exploring data structures and algorithms",
+                "Participating in competitive programming"
+            ],
+            technologies: ["Python", "Automation", "Scripting", "Discord.py", "Problem Solving"]
+        },
+        {
+            position: "Graphic Designer",
+            company: "Freelance",
+            period: "2022",
+            location: "MAKASSAR",
+            description: "Started my creative journey as a graphic designer, creating logos, banners, and visual content. This sparked my passion for technology and digital creation.",
+            responsibilities: [
+                "Designing logos and brand identity materials",
+                "Creating social media graphics and banners",
+                "Working with clients on creative projects",
+                "Learning design principles and visual aesthetics"
+            ],
+            technologies: ["Photoshop", "Illustrator", "Canva", "Figma", "Visual Design"]
+        },
+        {
+            position: "Microsoft Office",
+            company: "Begin Learning",
+            period: "2021",
+            location: "MAKASSAR",
+            description: "Started my journey into the digital world by learning Microsoft Office tools. This foundational step introduced me to computers and sparked my curiosity for technology.",
+            responsibilities: [
+                "Learning Microsoft Word, Excel, and PowerPoint",
+                "Creating documents and presentations",
+                "Understanding basic computer operations",
+                "Building foundational digital skills"
+            ],
+            technologies: ["MS Word", "MS Excel", "MS PowerPoint", "Computer Basics"]
+        }
+    ],
+    projects: [
+        {
+            id: 1,
+            title: "Drishti",
+            category: "AI / LLM",
+            technologies: "Python, PyTorch, Transformers, FastAPI, React, MongoDB",
+            image: "/images/Drishti.png",
+            description: "MAKASSAR's first intelligent advanced AI chatbot powered by a custom Large Language Model. Features natural language understanding, contextual conversations, and multilingual support including Bengali.",
+            link: "https://huggingface.co/red1-for-hek/drishti-ilm-x1"
+        },
+        {
+            id: 2,
+            title: "WARKAS",
+            category: "UMKM Cashier & Stock App",
+            technologies: "React, Vite, Supabase, Gemini API, Netlify",
+            image: "/images/warkas.png",
+            description: "Voice-assisted cashier and stock management web application for small retail shops (UMKM) with voice transaction entry, barcode scanning, and product expiry alerts.",
+            link: "https://warkasumkm.netlify.app/"
+        },
+        {
+            id: 3,
+            title: "Kopi Flow",
+            category: "3D Cafe & Ordering Demo",
+            technologies: "React, Three.js, Vite, Vercel",
+            image: "/images/kopidemo.png",
+            description: "Interactive 3D cafe ordering experience featuring a rotatable 3D cup showcase, live order status, and cafe demo controls.",
+            link: "https://kopi-flow.vercel.app/"
+        },
+        {
+            id: 4,
+            title: "Collection 3D",
+            category: "3D Fashion & Lookbook",
+            technologies: "React, Three.js, Vite, Vercel",
+            image: "/images/collectioneza.jpg",
+            description: "Interactive 3D fashion lookbook and collection showcase presenting modern streetwear and apparel pieces in a 3D scene.",
+            link: "https://colletionezafashion.vercel.app/"
+        },
+        {
+            id: 5,
+            title: "RedxChess",
+            category: "AI / Game Engine",
+            technologies: "Python, C++, Neural Networks, Bitboards, UCI Protocol",
+            image: "/images/RedxChess.png",
+            description: "A high-performance chess engine rated 3640 ELO. Features advanced search algorithms, neural network evaluation, and optimized bitboard representation for lightning-fast move generation.",
+            link: "/play"
+        }
+    ],
+    contact: {
+        email: "rezaardinata166@gmail.com",
+        github: "https://github.com/Ezsaa",
+        linkedin: "",
+        twitter: "",
+        facebook: "",
+        instagram: "https://www.instagram.com/ezsaaaaa/"
+    },
+    skills: {
+        develop: {
+            title: "AI DEVELOPER",
+            description: "Building intelligent systems & AI solutions",
+            details: "Developing AI agents, chatbots, and machine learning models using Python, TensorFlow, and PyTorch. Specializing in LLMs, NLP, deep learning, and autonomous systems.",
+            tools: ["Python", "TensorFlow", "PyTorch", "OpenCV", "Scikit-learn", "LLMs", "NLP", "Deep Learning", "Chatbots", "AI Agents"]
+        },
+        design: {
+            title: "FULL-STACK",
+            description: "Modern web development & scalable applications",
+            details: "Building responsive and performant web applications using React, Next.js, Node.js, and databases. Creating seamless user experiences with modern UI/UX principles.",
+            tools: ["React", "Next.js", "Node.js", "TypeScript", "MongoDB", "PostgreSQL", "TailwindCSS", "REST APIs", "Docker", "Git"]
+        }
+    }
+};
